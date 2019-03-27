@@ -1,4 +1,4 @@
-#Laplace expansionsfor the determinant of a matrix nxn
+#Laplace expansions for the determinant of a matrix nxn
 
 import numpy as np
 
