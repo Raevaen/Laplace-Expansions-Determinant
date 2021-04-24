@@ -1,5 +1,4 @@
 #Laplace expansions for the determinant of a matrix nxn
-
 import numpy as np
 
 def _laplace(M = np.array([[0,0], [0,0]])): #Initialize a void matrix with the same dimension of matrix M
